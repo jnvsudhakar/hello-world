@@ -1,1 +1,7 @@
 name:my_file3
+Discription: This file contains name as a print
+main()
+{
+	printf("hai!jaya\n");
+}
+   
